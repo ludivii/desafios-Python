@@ -1,3 +1,6 @@
+## Desafio 4
+# Crie uma var name e age usando input e mostre os prints
+
 name = input("Digite seu nome: ")
 age = int(input("Digite sua idade: "))
 

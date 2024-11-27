@@ -1,3 +1,6 @@
+## Desafio 5
+# Crie 2 vars float com input e imprima soma, sub, mul, div e expo
+
 num1 = float(input("Digite o 1º número: "))
 num2 = float(input("Digite o 2º número: "))
 

@@ -1,3 +1,6 @@
+## Desafio 3
+# Crie 2 vars e imprima a divisão delas
+
 num1 = 10
 num2 = 3.5
 
